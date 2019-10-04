@@ -1,0 +1,1 @@
+Simple TODO app using Django, Bulma, and React
